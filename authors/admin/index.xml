@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Academic</title>
+    <title>admin on Never Settle For Mediocrity</title>
     <link>https://JundiLiu.github.io/authors/admin/</link>
-    <description>Recent content in admin on Academic</description>
+    <description>Recent content in admin on Never Settle For Mediocrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://JundiLiu.github.io/author/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>I am a PhD student in Industrial &amp;amp; Systems Engineering Department at University of Washington. I am co-advised by Prof. Linda Boyle who leads Human Factors and Statistical Modeling (HFSM) Lab and Prof. Ashis Banerjee who leads Scale-independent Multimodal Automated Real Time Systems (SMARTS) Lab. Prior to studying at UW, I received my bachelor degree in Computer Science and Engineering from Shanghai Jiao Tong University.
+Currently I&amp;rsquo;m working on Synergy: Augmented reality for control of reservation-based intersections with mixed autonomous-non autonomous flows funded by National Science Foundation (NSF) Cyber-Physical Systems (CPS).</description>
     </item>
     
   </channel>
