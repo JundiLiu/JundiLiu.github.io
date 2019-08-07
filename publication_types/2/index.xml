@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Never Settle For Mediocrity</title>
+    <link>https://JundiLiu.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Never Settle For Mediocrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year}</copyright>
+    <lastBuildDate>Tue, 07 Aug 2018 12:15:50 -0700</lastBuildDate>
+    
+	<atom:link href="https://JundiLiu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Interstate Motor Carrier Crash Rate Level using Classification Models</title>
+      <link>https://JundiLiu.github.io/publication/aap-2018/</link>
+      <pubDate>Tue, 07 Aug 2018 12:15:50 -0700</pubDate>
+      
+      <guid>https://JundiLiu.github.io/publication/aap-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auction Bidding Methods for Multi-Agent Consensus Optimization in Supply-Demand Networks</title>
+      <link>https://JundiLiu.github.io/publication/ieee-ral-2018/</link>
+      <pubDate>Mon, 06 Aug 2018 12:30:12 -0700</pubDate>
+      
+      <guid>https://JundiLiu.github.io/publication/ieee-ral-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
